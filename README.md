@@ -1,6 +1,9 @@
 # paper-of-FSOD
 Few-shot Object Detection Recent Work
+## 2 ways
+* Meta-Learning Based
 
+* Transfer-Learning Based
 
 ## 2018
 
@@ -20,7 +23,7 @@ Few-shot Object Detection Recent Work
 * Context-Transformer: Tackling Object Confusion for Few-Shot Detection
 * Incremental Few-Shot Object Detection
 ## 2021
-* Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning Gongjie
+* Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning 
 * Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection
 * Few-Shot Object Detection via Classification Refinement and Distractor Retreatment
 * Generalized Few-Shot Object Detection without Forgetting
