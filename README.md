@@ -1,5 +1,13 @@
 # paper-of-FSOD
 Few-shot Object Detection Recent Work
+
+
+## Few Shot Object Detection Preliminaries
+* K-shot N-way Object Detection
+-
+* DataSet Split 、 PASCAL VOC
+
+
 ## 2 ways
 * Meta-Learning Based
 
@@ -27,3 +35,5 @@ Few-shot Object Detection Recent Work
 * Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection
 * Few-Shot Object Detection via Classification Refinement and Distractor Retreatment
 * Generalized Few-Shot Object Detection without Forgetting
+* FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding
+* Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection 
