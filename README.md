@@ -1,8 +1,7 @@
 # paper-of-FSOD
-Few-shot Object Detection Recent Work
 
 
-## Few Shot Object Detection Preliminaries
+## 1. Few Shot Object Detection Preliminaries
 * K-shot N-way Object Detection
   - K means  the number of the objects for each class
   - N means the number of classes for few shot detection
@@ -19,7 +18,7 @@ Few-shot Object Detection Recent Work
   - Meta-Learning Based
   - Transfer-Learning Based
 
-## Recent work
+## 2. Recent work
 ###  2018
 
   - LSTD: A Low-Shot Transfer Detector for Object Detection
