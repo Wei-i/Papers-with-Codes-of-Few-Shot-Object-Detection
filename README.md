@@ -4,7 +4,13 @@ Few-shot Object Detection Recent Work
 
 ## Few Shot Object Detection Preliminaries
 * K-shot N-way Object Detection
--
+  - K means  the number of the objects for each class
+  - N means the number of classes for few shot detection
+* DataSet Split 
+  - Base ClassSet $𝐶_𝑏$ , Base Dataset $𝐷_𝑏$ contains $\{(𝑥_𝑖, 𝑦_𝑖)\}$ about abundant images and annotations
+  - Novel ClassSet $𝐶_𝑛$  , Novel Dataset $𝐷_𝑛$ contains $\{(𝑥_𝑖, 𝑦_𝑖)\}$ about few images and annotations
+
+
 * DataSet Split 、 PASCAL VOC
 
 
