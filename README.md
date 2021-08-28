@@ -10,14 +10,10 @@ Few-shot Object Detection Recent Work
   - Base ClassSet $𝐶_𝑏$ , Base Dataset $𝐷_𝑏$ contains $\{(𝑥_𝑖, 𝑦_𝑖)\}$ about abundant images and annotations
   - Novel ClassSet $𝐶_𝑛$  , Novel Dataset $𝐷_𝑛$ contains $\{(𝑥_𝑖, 𝑦_𝑖)\}$ about few images and annotations
   - 𝐶_𝑏∩𝐶_𝑛=∅ , 𝐶_𝑏∪𝐶_𝑛=𝐶_𝑡𝑜𝑡𝑎𝑙 
-  - COCO (Base:Novel = 60:20)、 PASCAL VOC (Base:Novel = 15:5)
+  - COCO (Base : Novel = 60:20)、 PASCAL VOC (Base : Novel = 15:5)
 * Training(Two phases)
   - Training on Base dataset
   - Fine-tuning on Novel and base dataset with few objects
-
-
-* DataSet Split 、 PASCAL VOC
-
 
 * Method
   - Meta-Learning Based
