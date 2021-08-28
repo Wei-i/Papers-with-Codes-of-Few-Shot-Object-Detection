@@ -20,24 +20,24 @@ Few-shot Object Detection Recent Work
   - Transfer-Learning Based
 
 ## Recent work
-* 2018
+###  2018
 
   - LSTD: A Low-Shot Transfer Detector for Object Detection
 
-## 2019
+### 2019
   - Few-shot Object Detection via Feature Reweighting
   - Meta-Learning to Detect Rare Objects
   - Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning 
   - RepMet: Representative-based metric learning for classification and few-shot object detection
 
-## 2020
+### 2020
   - Frustratingly Simple Few-Shot Object Detection
   - Multi-Scale Positive Sample Refinement for Few-Shot Object Detection
   - Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild
   - Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector
   - Context-Transformer: Tackling Object Confusion for Few-Shot Detection
   - Incremental Few-Shot Object Detection
-## 2021
+### 2021
   - Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning 
   - Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection
   - Few-Shot Object Detection via Classification Refinement and Distractor Retreatment
