@@ -24,16 +24,16 @@
   - LSTD: A Low-Shot Transfer Detector for Object Detection (AAAI 2018) [[Paper]](https://arxiv.org/pdf/1803.01529.pdf)
 
 ### 2019
-  - Few-shot Object Detection via Feature Reweighting (ICCV 2019) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html) [[Code]](https://github.com/bingykang/Fewshot_Detection)
+  - Few-shot Object Detection via Feature Reweighting (ICCV 2019) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.pdf) [[Code]](https://github.com/bingykang/Fewshot_Detection)
   - Meta-Learning to Detect Rare Objects (ICCV 2019) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Meta-Learning_to_Detect_Rare_Objects_ICCV_2019_paper.pdf) 
   - Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning (ICCV 2019) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.pdf) [[Code]](https://github.com/yanxp/MetaR-CNN)
-  - RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Code]]()
+  - RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Code]](https://github.com/jshtok/RepMet)
   
 ### 2020
-  - Frustratingly Simple Few-Shot Object Detection (ICML 2020) [[Paper]]() [[Code]](https://github.com/ucbdrive/few-shot-object-detection)
-  - Multi-Scale Positive Sample Refinement for Few-Shot Object Detection (CVPR 2020) [[Paper]]() [[Code]]()
-  - Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild (ECCV 2020) [[Paper]]() [[Code]](https://github.com/YoungXIAO13/FewShotDetection)
-  - Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector (CVPR 2020) [[Paper]]() [[Code]]()
+  - Frustratingly Simple Few-Shot Object Detection (ICML 2020) [[Paper]](https://arxiv.org/pdf/2003.06957.pdf) [[Code]](https://github.com/ucbdrive/few-shot-object-detection)
+  - Multi-Scale Positive Sample Refinement for Few-Shot Object Detection (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09384.pdf) [[Code]](https://github.com/jiaxi-wu/MPSR)
+  - Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.12107.pdf) [[Code]](https://github.com/YoungXIAO13/FewShotDetection)
+  - Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf) [[Code]](https://github.com/fanq15/FewX)
   - Context-Transformer: Tackling Object Confusion for Few-Shot Detection (AAAI 2020) [[Paper]]() [[Code]]()
   - Incremental Few-Shot Object Detection (CVPR 2020) [[Paper]]() [[Code]]()
 
