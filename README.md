@@ -1,4 +1,4 @@
-# Papers-of-FSOD
+# Papers-with-Codes of Few-Shot Object Detection 
 
 
 ## 1. Few Shot Object Detection Preliminaries
