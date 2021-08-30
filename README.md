@@ -30,7 +30,7 @@
   - RepMet: Representative-based metric learning for classification and few-shot object detection (CVPR 2020) [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [Code]()
   
 ### 2020
-  - Frustratingly Simple Few-Shot Object Detection (ICML 2020) [\[Paper]\]() [Code](https://github.com/ucbdrive/few-shot-object-detection)
+  - Frustratingly Simple Few-Shot Object Detection (ICML 2020) [[Paper]]() [Code](https://github.com/ucbdrive/few-shot-object-detection)
   - Multi-Scale Positive Sample Refinement for Few-Shot Object Detection (CVPR 2020) [Paper]() [Code]()
   - Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild (ECCV 2020) [Paper]() [Code](https://github.com/YoungXIAO13/FewShotDetection)
   - Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector (CVPR 2020) [Paper]() [Code]()
