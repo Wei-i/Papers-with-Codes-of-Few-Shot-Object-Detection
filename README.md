@@ -16,8 +16,11 @@
 
 * Method
   - Meta-Learning Based
+  ![image](https://user-images.githubusercontent.com/47490392/131458670-89e7e75e-433a-4aea-8b23-a01ee85a1b54.png)
+
   - Transfer-Learning Based
-  - Metric-Learning()
+  ![image](https://user-images.githubusercontent.com/47490392/131458759-824a1385-a276-4e99-be93-4d0d73cf5885.png)
+
 
 ## 2. Recent work
 ###  2018
