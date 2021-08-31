@@ -17,6 +17,7 @@
 * Method
   - Meta-Learning Based
   - Transfer-Learning Based
+  - Metric-Learning()
 
 ## 2. Recent work
 ###  2018
@@ -34,15 +35,15 @@
   - Multi-Scale Positive Sample Refinement for Few-Shot Object Detection (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.09384.pdf) [[Code]](https://github.com/jiaxi-wu/MPSR)
   - Few-Shot Object Detection and Viewpoint Estimation for Objects in the Wild (ECCV 2020) [[Paper]](https://arxiv.org/pdf/2007.12107.pdf) [[Code]](https://github.com/YoungXIAO13/FewShotDetection)
   - Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf) [[Code]](https://github.com/fanq15/FewX)
-  - Context-Transformer: Tackling Object Confusion for Few-Shot Detection (AAAI 2020) [[Paper]]() [[Code]]()
-  - Incremental Few-Shot Object Detection (CVPR 2020) [[Paper]]() [[Code]]()
+  - Context-Transformer: Tackling Object Confusion for Few-Shot Detection (AAAI 2020) [[Paper]](https://arxiv.org/pdf/2003.07304.pdf) [[Code]](https://github.com/Ze-Yang/Context-Transformer)
+  - Incremental Few-Shot Object Detection (CVPR 2020) [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perez-Rua_Incremental_Few-Shot_Object_Detection_CVPR_2020_paper.pdf)
 
 ### 2021
-  - Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning (arxiv) [[Paper]]() [[Code]]()
-  - Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection (CVPR 2021) [[Paper]]() [[Code]]()
-  - Few-Shot Object Detection via Classification Refinement and Distractor Retreatment (CVPR 2021) [[Paper]]() [[Code]]()
-  - Generalized Few-Shot Object Detection without Forgetting (CVPR 2021) [[Paper]]() [[Code]]()
-  - FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding (CVPR 2021) [[Paper]]() [[Code]]()
-  - Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection (CVPR 2021) [[Paper]]() [[Code]]()
-  - Hallucination Improves Few-Shot Object Detection (CVPR 2021) [[Paper]]() [[Code]]()
-  - DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2108.09017.pdf) [[Code]]()
+  - Meta-DETR: Few-Shot Object Detection via Unified Image-Level Meta-Learning (arxiv) [[Paper]](http://arxiv.org/abs/2103.11731) [[Code]](https://github.com/ZhangGongjie/Meta-DETR)
+  - Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_Semantic_Relation_Reasoning_for_Shot-Stable_Few-Shot_Object_Detection_CVPR_2021_paper.pdf)
+  - Few-Shot Object Detection via Classification Refinement and Distractor Retreatment (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Few-Shot_Object_Detection_via_Classification_Refinement_and_Distractor_Retreatment_CVPR_2021_paper.pdf) 
+  - Generalized Few-Shot Object Detection without Forgetting (CVPR 2021) [[Paper]](https://github.com/Megvii-BaseDetection/GFSD) [[Code]](https://arxiv.org/pdf/2105.09491.pdf)
+  - FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2103.05950.pdf) [[Code]](https://github.com/MegviiDetection/FSCE)
+  - Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Dense_Relation_Distillation_With_Context-Aware_Aggregation_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/hzhupku/DCNet)
+  - Hallucination Improves Few-Shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Hallucination_Improves_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/pppplin/HallucFsDet)
+  - DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection (CVPR 2021) [[Paper]](https://arxiv.org/pdf/2108.09017.pdf) [[Code]](https://github.com/er-muyue/DeFRCN)
