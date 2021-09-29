@@ -58,7 +58,7 @@
 
 
 
-# Objects as Points
+# youtu_audit_element_det
 There is a implementation for youtu-senosr-detection on Pytorch(政治实体检测).
 This module is based on [CenterNet](http://arxiv.org/abs/1904.07850) which is a bottom-up and anchor-free object detection method.
 Up to now, our mudule supports for a total of 93 categories detection.
