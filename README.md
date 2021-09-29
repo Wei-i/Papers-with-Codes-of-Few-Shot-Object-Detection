@@ -50,3 +50,15 @@
   - Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Dense_Relation_Distillation_With_Context-Aware_Aggregation_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/hzhupku/DCNet)
   - Hallucination Improves Few-Shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Hallucination_Improves_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/pppplin/HallucFsDet)
   - DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2108.09017.pdf) [[Code]](https://github.com/er-muyue/DeFRCN)
+
+
+
+
+
+
+|  id  |            category_name            |
+| :--: | :---------------------------------: |
+|  1   |           "国旗(ZZ003)",            |
+|  2   |           "国徽(ZZ004)",            |
+|  3   |           "党旗(ZZ001)",            |
+|  4   |           "党徽(ZZ002)",            |
