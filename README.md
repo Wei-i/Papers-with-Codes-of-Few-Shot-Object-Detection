@@ -50,5 +50,11 @@
   - Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Dense_Relation_Distillation_With_Context-Aware_Aggregation_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/hzhupku/DCNet)
   - Hallucination Improves Few-Shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Hallucination_Improves_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/pppplin/HallucFsDet)
   - DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2108.09017.pdf) [[Code]](https://github.com/er-muyue/DeFRCN)
-
+  - StarNet: towards Weakly Supervised Few-Shot Object Detection (AAAI 2021) [[Paper]](https://arxiv.org/pdf/2003.06798.pdf)
+  - Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection (CVPR 2021) [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Beyond_Max-Margin_Class_Margin_Equilibrium_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/Bohao-Lee/CME)
+  - Universal-Prototype Augmentation for Few-Shot Object Detection (ICCV 2021) [[Paper]](https://arxiv.org/pdf/2103.01077.pdf)
+  - Dual-awareness Attention for Few-Shot Object Detection (MM 2021) [[Paper]](https://arxiv.org/pdf/2102.12152.pdf) 
+  - Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment (arxiv) [[Paper]](https://arxiv.org/pdf/2104.07719.pdf)
+  - Class-Incremental Few-Shot Object Detection (arxiv) [[Paper]](https://arxiv.org/pdf/2105.07637.pdf)
+  - Dynamic Relevance Learning for Few-Shot Object Detection (arxiv) [[Paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02235.pdf) [[Code]] (https://github.com/liuweijie19980216/DRL-for-FSOD)
 
