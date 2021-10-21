@@ -56,5 +56,5 @@
   - Dual-awareness Attention for Few-Shot Object Detection (MM 2021) [[Paper]](https://arxiv.org/pdf/2102.12152.pdf) 
   - Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment (arxiv) [[Paper]](https://arxiv.org/pdf/2104.07719.pdf)
   - Class-Incremental Few-Shot Object Detection (arxiv) [[Paper]](https://arxiv.org/pdf/2105.07637.pdf)
-  - Dynamic Relevance Learning for Few-Shot Object Detection (arxiv) [[Paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02235.pdf) [[Code]] (https://github.com/liuweijie19980216/DRL-for-FSOD)
+  - Dynamic Relevance Learning for Few-Shot Object Detection (arxiv) [[Paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02235.pdf) [[Code]](https://github.com/liuweijie19980216/DRL-for-FSOD)
 
