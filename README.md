@@ -57,4 +57,6 @@
   - Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment (arxiv) [[Paper]](https://arxiv.org/pdf/2104.07719.pdf)
   - Class-Incremental Few-Shot Object Detection (arxiv) [[Paper]](https://arxiv.org/pdf/2105.07637.pdf)
   - Dynamic Relevance Learning for Few-Shot Object Detection (arxiv) [[Paper]](https://arxiv.org/ftp/arxiv/papers/2108/2108.02235.pdf) [[Code]](https://github.com/liuweijie19980216/DRL-for-FSOD)
+  - Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection(NeurIPS 2021) [[Paper]](https://arxiv.org/pdf/2110.15017v1.pdf) [[Code]](https://github.com/dongnana777/Bridging-Non-Co-occurrence)
+  - Meta Guided Metric Learner for Overcoming Class Confusion in Few-Shot Road Object Detection(NeurIPS 2021 Workshop） [[Paper]](https://arxiv.org/pdf/2110.15074v1.pdf)
 
