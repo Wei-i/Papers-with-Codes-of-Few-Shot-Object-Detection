@@ -52,7 +52,7 @@
   - (ICCV 2021) DeFRCN: Decoupled Faster R-CNN for Few-Shot Object Detection [[Paper]](https://arxiv.org/pdf/2108.09017.pdf) [[Code]](https://github.com/er-muyue/DeFRCN)
   - (AAAI 2021) StarNet: towards Weakly Supervised Few-Shot Object Detection [[Paper]](https://arxiv.org/pdf/2003.06798.pdf)
   - (CVPR 2021)Beyond Max-Margin: Class Margin Equilibrium for Few-shot Object Detection [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Beyond_Max-Margin_Class_Margin_Equilibrium_for_Few-Shot_Object_Detection_CVPR_2021_paper.pdf) [[Code]](https://github.com/Bohao-Lee/CME)
-  - (ICCV 2021) Universal-Prototype Augmentation for Few-Shot Object Detection [[Paper]](https://arxiv.org/pdf/2103.01077.pdf)
+  - (ICCV 2021) Universal-Prototype Augmentation for Few-Shot Object Detection [[Paper]](https://arxiv.org/pdf/2103.01077.pdf) [[Code]](https://github.com/AmingWu/UP-FSOD)
   - (MM 2021) Dual-awareness Attention for Few-Shot Object Detection [[Paper]](https://arxiv.org/pdf/2102.12152.pdf) 
   - (arxiv) Meta Faster R-CNN: Towards Accurate Few-Shot Object Detection with Attentive Feature Alignment [[Paper]](https://arxiv.org/pdf/2104.07719.pdf)
   - (arxiv) Class-Incremental Few-Shot Object Detection [[Paper]](https://arxiv.org/pdf/2105.07637.pdf)
