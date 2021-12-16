@@ -61,3 +61,4 @@
   - (NeurIPS 2021 Workshop) Meta Guided Metric Learner for Overcoming Class Confusion in Few-Shot Road Object Detection [[Paper]](https://arxiv.org/pdf/2110.15074v1.pdf)
 
   - (NeurIPS 2021) Few-Shot Object Detection via Association and DIscrimination[[Paper]](https://papers.nips.cc/paper/2021/file/8a1e808b55fde9455cb3d8857ed88389-Paper.pdf) [[Code]](https://github.com/yhcao6/FADI)
+  - (arxiv) Label, Verify, Correct: A Simple Few Shot Object Detection Method[[Paper]](https://arxiv.org/pdf/2112.05749.pdf)
