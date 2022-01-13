@@ -29,7 +29,7 @@
 
 ### 2019
   - (ICCV 2019) Few-shot Object Detection via Feature Reweighting [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.pdf) [[Code]](https://github.com/bingykang/Fewshot_Detection)
-  - (ICCV 2019) Meta-Learning to Detect Rare Objects (ICCV 2019) [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Meta-Learning_to_Detect_Rare_Objects_ICCV_2019_paper.pdf) 
+  - (ICCV 2019) Meta-Learning to Detect Rare Objects [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Meta-Learning_to_Detect_Rare_Objects_ICCV_2019_paper.pdf) 
   - (ICCV 2019) Meta R-CNN : Towards General Solver for Instance-level Low-shot Learning [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yan_Meta_R-CNN_Towards_General_Solver_for_Instance-Level_Low-Shot_Learning_ICCV_2019_paper.pdf) [[Code]](https://github.com/yanxp/MetaR-CNN)
   - (CVPR 2020) RepMet: Representative-based metric learning for classification and few-shot object detection [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Karlinsky_RepMet_Representative-Based_Metric_Learning_for_Classification_and_Few-Shot_Object_Detection_CVPR_2019_paper.pdf) [[Code]](https://github.com/jshtok/RepMet)
   
